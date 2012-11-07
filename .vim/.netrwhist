@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/mpc/devel/daniel-ho/debugPreroll'
+let g:netrw_dirhist_2='/mpc/devel/daniel-ho/git/prodTechTools/luaTrace'
+let g:netrw_dirhist_3='/mpc/devel/daniel-ho/git/subdivisionGOP/SubdivisionGOP'
+let g:netrw_dirhist_4='/mpc/devel/daniel-ho/git/muggins/muggins/objectCore'
+let g:netrw_dirhist_5='/mpc/devel/daniel-ho/git/texture3d/ggl/textures'
+let g:netrw_dirhist_6='/mpc/devel/daniel-ho/git/vdmGenerate/src'
+let g:netrw_dirhist_7='/mpc/devel/daniel-ho/git/mpcShaderLoader/mpcShaderLoader'
